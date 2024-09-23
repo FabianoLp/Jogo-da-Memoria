@@ -10,4 +10,5 @@
 - O jogo permte abrir 2 imagens por vez.
 - Ao reiniciar as imagens são embaralhadas automaticamente. 
 
-# Link para demo - 
+# Link para demo 
+https://jogo-da-memoria-one-rho.vercel.app/
